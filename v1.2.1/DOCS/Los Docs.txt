@@ -1,0 +1,7 @@
+DOCS-v1.2.1
+MG - MiniGame - Juega un juego de números
+VER - Versión - Ver la versión de la línea de comandos
+INFO - Información - Ver información sobre la línea de comando.
+FECHA - Fecha - Ver la fecha
+----- CÓDIGOS DE ERROR -----
+100 - Código roto o .exe / .py no funciona.

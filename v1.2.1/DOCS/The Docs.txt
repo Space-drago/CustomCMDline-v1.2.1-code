@@ -1,0 +1,7 @@
+DOCS-v1.2.1
+MG - MiniGame - Play a number game
+VER - Version - View the command line version
+INFO - Information - Veiw information about the command line.
+DATE - Date - Veiw the date
+-----ERROR CODES-----
+100 - Code broken or .exe/.py not functioning.
